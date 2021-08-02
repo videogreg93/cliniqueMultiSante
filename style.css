@@ -1,0 +1,45 @@
+body {
+    margin-top: 6%;
+}
+
+.languages {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+}
+
+.center {
+    text-align: center;
+}
+
+.navigation {
+    margin-top: 10%;
+}
+
+.carousel {
+    margin: auto;
+    width: 80%;
+    margin-top: 2%;
+}
+
+.subtitle {
+    margin-top: 5%;
+}
+
+.services-title {
+    margin: auto;
+    width: 80%;
+    margin-top: 5%;
+}
+
+hr {
+    border: solid #dddddd;
+    border-width: 1px 0 0;
+    clear: both;
+    margin: 1.25rem 0 1.1875rem;
+}
+
+footer {
+    margin-top: 5%;
+    padding-bottom: 2%;
+}
