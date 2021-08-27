@@ -1,8 +1,6 @@
 
-.languages {
-    position: absolute;
-    top: 8px;
-    right: 16px;
+.language {
+    float: right;
 }
 
 .center {
@@ -28,6 +26,12 @@
     width: 80%;
     margin-top: 2%;
     margin-bottom: 2%;
+}
+.blessures h3 {
+    text-align: center;
+}
+.blessures .col-5 {
+    margin-top: 1%;
 }
 
 hr {
